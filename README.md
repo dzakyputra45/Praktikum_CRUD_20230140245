@@ -59,7 +59,7 @@ http://localhost:8080/api/users
 {
   "status": "success",
   "data": {
-    "age": 24,
+    "age": 21,
     "id": "e4ba5a2f-5f1b-4ce4-a025-716bbf6c5f6f",
     "name": "Dzaky Putra Pratama"
   }
